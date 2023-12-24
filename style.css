@@ -1,0 +1,238 @@
+body {
+    font-family: 'Inter', sans-serif;
+	user-select: none; 
+	margin: 0;
+    background-color: #BBFF86;
+}
+
+.head {
+    background-color: #97CC41;
+    width: 100%;
+    height: 80px;
+    position: relative;
+}
+
+.body {
+    width: 100%;
+    height: 800px;
+    position: relative;
+}
+
+.photo {
+    width: 518px;
+    height: 339px;
+    position: absolute;
+    left: 980px;
+    top: 450px;
+}
+
+.nume {
+    color: #567678;
+    font-size: 20px;
+    position: absolute;
+    text-align: center;
+    top: -15px;
+    left: 40%;
+}
+
+.foot {
+    background-color: #97CC41;
+    width: 100%;
+    height: 105px;
+    position: relative;
+}
+
+.logo {
+    color: #E4F426;
+    position: absolute;
+    left: 25px;
+    top: 15px;
+    font-size: 35px;
+    display: inline-block;
+    background-color: none;
+    border: none;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 50px;
+}
+
+.button {
+    background-color: none;
+	color: #567678;
+	position: relative;
+    left: 900px;
+    top: 25px;
+    border: none;
+    padding: 2px 25px;
+    text-decoration: none;
+    display: inline-block;
+    text-align: center;
+    font-size: 17px;
+    border-radius: 50px;
+}
+
+.welcom {
+    color: #567678;
+    position: absolute;
+    top: 5px;
+    left: 48%;
+    font-size: 15px;
+    text-align: center;
+}
+
+.img {
+    width: 30%;
+    height: 30%;
+    position: absolute;
+    left: 25px;
+    top: 25px;
+}
+
+.info {
+    color: #567678;
+    position: absolute;
+    top: 90px;
+    left: 65%;
+    font-size: 15px;
+    text-align: right;
+}
+
+.site {
+    color: #567678;
+    position: absolute;
+    top: 250px;
+    left: 25px;
+    font-size: 15px;
+    text-align: left;
+}
+
+.text {
+    color: #567678;
+    position: absolute;
+    top: 365px;
+    left: 33%;
+    font-size: 15px;
+    text-align: justify;
+    width: 37%;
+}
+
+.text12 {
+    color: #567678;
+    position: absolute;
+    top: 5px;
+    left: 20%;
+    font-size: 15px;
+    text-align: center;
+    width: 60%;
+}
+
+.text13 {
+    color: #567678;
+    position: absolute;
+    top: 350px;
+    left: 20%;
+    font-size: 15px;
+    text-align: center;
+    width: 60%;
+}
+
+.text14 {
+    color: #567678;
+    position: absolute;
+    top: 5px;
+    left: 20%;
+    font-size: 25px;
+    text-align: center;
+    width: 60%;
+}
+
+.text15 {
+    color: #567678;
+    position: absolute;
+    top: 30px;
+    left: 20%;
+    font-size: 15px;
+    text-align: center;
+    width: 60%;
+}
+
+.data {
+    color: #567678;
+    position: absolute;
+    left: 66%;
+    top: 42%;
+}
+
+.pos {
+    background-color: #97CC41;
+    left: 2%;
+    top: 50px;
+    width: 96%;
+    height: 80px;
+    position: absolute;
+}
+
+.vec {
+    background-color: #97CC41;
+    left: 2%;
+    top: 200px;
+    width: 96%;
+    height: 300px;
+    position: absolute;
+}
+
+.tees {
+    color: #567678;
+    position: absolute;
+    top: -5%;
+    left: 2%;
+    font-size: 25px;
+    text-align: left;
+}
+
+.njd {
+    width: 20%;
+    height: 30px;
+    margin: 10px;
+    position: relative;
+    top: 30px;
+    left: 40%;
+}
+
+.dia {
+    color: #567678;
+    position: absolute;
+    left: 32%;
+    margin: 10px;
+    top: 35px;
+}
+
+.text16 {
+    color: #567678;
+    position: absolute;
+    top: 100px;
+    left: 2%;
+    font-size: 15px;
+    text-align: left;
+    width: 60%;
+}
+
+.text17 {
+    color: #567678;
+    position: absolute;
+    top: 400px;
+    left: 2%;
+    font-size: 15px;
+    text-align: left;
+    width: 60%;
+}
+
+.text18 {
+    color: #567678;
+    position: absolute;
+    top: 280px;
+    left: 38%;
+    font-size: 15px;
+    text-align: right;
+    width: 60%;
+}
